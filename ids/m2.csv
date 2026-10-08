@@ -1,0 +1,11 @@
+no,Age,Gender,Department,Subject 1,Subject 2,Subject 3,Total Marks,Percentage
+1,21,Male,Computer Applications,82,76,88,246,82
+2,21,Female,Computer Applications,91,85,89,265,88.33
+3,22,Male,Information Technology,74,81,79,234,78
+4,20,Female,Computer Applications,95,92,94,281,93.67
+5,20,Male,Information Technology,78,75,82,235,78.33
+6,21,Female,Computer Applications,88,84,90,262,87.33
+7,21,Male,Information Technology,72,78,75,225,75
+8,20,Female,Computer Applications,96,94,92,282,94
+9,20,Male,Computer Science,81,79,85,245,81.67
+10,21,Female,Computer Applications,87,90,86,263,87.67

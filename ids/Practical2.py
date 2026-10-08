@@ -1,0 +1,15 @@
+import pandas as pd
+data=pd.read_csv("Book1.csv")
+print(data.head())
+print(data['marks'].max())
+print(data['marks'].mean())
+print(data['marks'].min())
+toper=data.loc[data["marks"].idxmax()]
+print(toper['name'],toper['marks'])
+print(data.dtypes)
+print(data.info())
+print(data['marks'].sum())
+print(data['marks'].count())
+print(data.groupby('subject')['marks'].mean())
+print(data.groupby('subject').size())
+print(data.sort_values('marks' ,ascending=True))

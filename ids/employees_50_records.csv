@@ -1,0 +1,51 @@
+Employee_ID,Name,Gender,Age,Department,Designation,Email,City,Salary
+E001,Rajesh Patel,Male,31,IT,Software Developer,rajesh.patel@example.com,Ahmedabad,52000
+E002,Priya Shah,Female,29,HR,HR Executive,priya.shah@example.com,Surat,46000
+E003,Amit Mehta,Male,33,Finance,Accountant,amit.mehta@example.com,Vadodara,58000
+E004,Neha Desai,Female,30,Marketing,Marketing Executive,neha.desai@example.com,Rajkot,49000
+E005,Karan Patel,Male,31,IT,System Administrator,karan.patel@example.com,Ahmedabad,61000
+E006,Sneha Shah,Female,28,Sales,Sales Executive,sneha.shah@example.com,Surat,44000
+E007,Vivek Kumar,Male,35,IT,Project Manager,vivek.kumar@example.com,Gandhinagar,82000
+E008,Pooja Trivedi,Female,30,HR,Recruiter,pooja.trivedi@example.com,Anand,47000
+E009,Rahul Patel,Male,33,Finance,Financial Analyst,rahul.patel@example.com,Nadiad,65000
+E010,Kavita Shah,Female,28,Marketing,Marketing Manager,kavita.shah@example.com,Bhavnagar,72000
+E011,Harsh Solanki,Male,30,IT,Web Developer,harsh.solanki@example.com,Rajkot,55000
+E012,Rina Patel,Female,32,Finance,Senior Accountant,rina.patel@example.com,Ahmedabad,68000
+E013,Dhruv Mehta,Male,27,IT,Junior Developer,dhruv.mehta@example.com,Vadodara,42000
+E014,Riya Desai,Female,30,Sales,Sales Manager,riya.desai@example.com,Surat,69000
+E015,Manish Shah,Male,36,Administration,Office Manager,manish.shah@example.com,Ahmedabad,62000
+E016,Hetal Patel,Female,27,HR,HR Manager,hetal.patel@example.com,Rajkot,70000
+E017,Jay Mehta,Male,29,IT,Software Engineer,jay.mehta@example.com,Anand,57000
+E018,Nisha Shah,Female,32,Finance,Finance Manager,nisha.shah@example.com,Vadodara,78000
+E019,Manav Patel,Male,27,Sales,Sales Executive,manav.patel@example.com,Surat,45000
+E020,Aanya Joshi,Female,30,Marketing,Content Specialist,aanya.joshi@example.com,Ahmedabad,51000
+E021,Parth Shah,Male,33,IT,Team Lead,parth.shah@example.com,Bhavnagar,76000
+E022,Janvi Patel,Female,32,HR,HR Executive,janvi.patel@example.com,Gandhinagar,48000
+E023,Kunal Desai,Male,27,IT,Database Administrator,kunal.desai@example.com,Rajkot,64000
+E024,Mahi Shah,Female,29,Sales,Sales Executive,mahi.shah@example.com,Nadiad,43000
+E025,Tanish Patel,Male,34,Finance,Senior Financial Analyst,tanish.patel@example.com,Ahmedabad,73000
+E026,Riddhi Mehta,Female,31,Marketing,Digital Marketing Executive,riddhi.mehta@example.com,Surat,53000
+E027,Vivaan Shah,Male,27,IT,Support Engineer,vivaan.shah@example.com,Vadodara,46000
+E028,Siya Patel,Female,29,HR,Training Coordinator,siya.patel@example.com,Anand,50000
+E029,Raj Patel,Male,33,Administration,Administrative Officer,raj.patel@example.com,Rajkot,57000
+E030,Myra Desai,Female,28,Finance,Account Executive,myra.desai@example.com,Ahmedabad,49000
+E031,Aryan Shah,Male,30,IT,Software Developer,aryan.shah@example.com,Surat,59000
+E032,Kavya Patel,Female,34,Finance,Finance Executive,kavya.patel@example.com,Gandhinagar,61000
+E033,Om Mehta,Male,26,IT,Junior Software Engineer,om.mehta@example.com,Vadodara,41000
+E034,Jiya Shah,Female,28,Marketing,Brand Executive,jiya.shah@example.com,Bhavnagar,52000
+E035,Ved Patel,Male,35,IT,IT Manager,ved.patel@example.com,Ahmedabad,85000
+E036,Avni Joshi,Female,32,HR,Senior Recruiter,avni.joshi@example.com,Rajkot,56000
+E037,Darsh Shah,Male,28,Sales,Business Development Executive,darsh.shah@example.com,Surat,48000
+E038,Tanvi Patel,Female,29,Marketing,SEO Executive,tanvi.patel@example.com,Nadiad,47000
+E039,Shiv Mehta,Male,32,Finance,Audit Executive,shiv.mehta@example.com,Anand,60000
+E040,Aditi Shah,Female,31,IT,QA Engineer,aditi.shah@example.com,Ahmedabad,54000
+E041,Devansh Patel,Male,27,Sales,Business Development Executive,devansh.patel@example.com,Vadodara,50000
+E042,Palak Desai,Female,31,Administration,Admin Executive,palak.desai@example.com,Surat,45000
+E043,Ronak Shah,Male,33,IT,Technical Lead,ronak.shah@example.com,Rajkot,79000
+E044,Neha Patel,Female,29,HR,HR Executive,neha.patel@example.com,Gandhinagar,47000
+E045,Hardik Mehta,Male,30,Finance,Accountant,hardik.mehta@example.com,Ahmedabad,55000
+E046,Komal Shah,Female,31,Marketing,Marketing Executive,komal.shah@example.com,Bhavnagar,50000
+E047,Sahil Patel,Male,35,Sales,Sales Manager,sahil.patel@example.com,Surat,71000
+E048,Rupal Desai,Female,27,IT,UI/UX Designer,rupal.desai@example.com,Vadodara,56000
+E049,Akash Shah,Male,31,Administration,Operations Executive,akash.shah@example.com,Ahmedabad,52000
+E050,Simran Patel,Female,30,HR,HR Business Partner,simran.patel@example.com,Rajkot,68000

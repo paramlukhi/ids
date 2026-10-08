@@ -1,0 +1,13 @@
+import pandas as pd
+df = pd.read_csv('Book1.csv')
+#print(df)
+#print(df.isnull())
+#print(df.isnull().sum())
+#df.fillna(df.mean(numeric_only=True), inplace=True)
+#print(df.fillna)
+#df.dropna(inplace=True)
+#print(df.dropna(axis=0 ))
+#print(df.dropna(axis=1 ))
+#print(df.duplicated())
+#print(df.drop_duplicates(inplace=True))
+print(df)
